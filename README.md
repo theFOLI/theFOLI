@@ -41,8 +41,8 @@ Autista, focado em resultados, e com uma abordagem pragmática para resolver pro
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats-nine-orpin-38.vercel.app/api/top-langs/?username=theFOLI&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats-nine-orpin-38.vercel.app/api?username=theFOLI&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-nine-orpin-38.vercel.app/api/top-langs/?username=theFOLI&layout=compact&theme=neon" alt="Top Languages" />
+  <img src="https://github-readme-stats-nine-orpin-38.vercel.app/api?username=theFOLI&show_icons=true&theme=neon" alt="GitHub Stats" />
 </p>
 
 ### 🔗 Conecte-se comigo
