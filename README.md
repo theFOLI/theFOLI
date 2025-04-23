@@ -39,11 +39,12 @@ Autista, focado em resultados, e com uma abordagem pragmática para resolver pro
 - Ferramentas de cabeamento e infraestrutura para garantir a conectividade e a continuidade operacional
 
 ### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats-nine-orpin-38.vercel.app/api/top-langs/?username=theFOLI&layout=compact&theme=neon" alt="Top Languages" />
-  <img src="https://github-readme-stats-nine-orpin-38.vercel.app/api?username=theFOLI&show_icons=true&theme=neon" alt="GitHub Stats" />
-</p>
+<a href="https://github.com/theFOLI">
+    <img height=180 align="center" src="https://github-readme-stats-nine-orpin-38.vercel.app/api/top-langs/?username=theFOLI&layout=compact&theme=neon" alt="Top Languages" />
+</a>
+<a href="https://github.com/theFOLI">
+    <img height=180 align="center" src="https://github-readme-stats-nine-orpin-38.vercel.app/api?username=theFOLI&show_icons=true&theme=neon" alt="GitHub Stats" />
+</a>
 
 ### 🔗 Conecte-se comigo
 
